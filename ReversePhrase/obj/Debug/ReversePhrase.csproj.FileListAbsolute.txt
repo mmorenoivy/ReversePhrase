@@ -1,0 +1,7 @@
+c:\users\mivy\source\repos\ReversePhrase\ReversePhrase\bin\Debug\ReversePhrase.exe.config
+c:\users\mivy\source\repos\ReversePhrase\ReversePhrase\bin\Debug\ReversePhrase.exe
+c:\users\mivy\source\repos\ReversePhrase\ReversePhrase\bin\Debug\ReversePhrase.pdb
+c:\users\mivy\source\repos\ReversePhrase\ReversePhrase\obj\Debug\ReversePhrase.csprojResolveAssemblyReference.cache
+c:\users\mivy\source\repos\ReversePhrase\ReversePhrase\obj\Debug\ReversePhrase.csproj.CoreCompileInputs.cache
+c:\users\mivy\source\repos\ReversePhrase\ReversePhrase\obj\Debug\ReversePhrase.exe
+c:\users\mivy\source\repos\ReversePhrase\ReversePhrase\obj\Debug\ReversePhrase.pdb
